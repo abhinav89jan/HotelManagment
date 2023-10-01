@@ -1,0 +1,5 @@
+C:\MyProject\Newfolder2\HotelManagment\HotelManagment\obj\Debug\net6.0\HotelManagment.csproj.AssemblyReference.cache
+C:\MyProject\Newfolder2\HotelManagment\HotelManagment\obj\Debug\net6.0\HotelManagment.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProject\Newfolder2\HotelManagment\HotelManagment\obj\Debug\net6.0\HotelManagment.AssemblyInfoInputs.cache
+C:\MyProject\Newfolder2\HotelManagment\HotelManagment\obj\Debug\net6.0\HotelManagment.AssemblyInfo.cs
+C:\MyProject\Newfolder2\HotelManagment\HotelManagment\obj\Debug\net6.0\HotelManagment.csproj.CoreCompileInputs.cache

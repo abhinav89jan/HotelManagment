@@ -1,0 +1,17 @@
+C:\MyProject\Newfolder2\HotelManagment\HotelManagment\bin\Release\net6.0\publish\HotelManagment.deps.json
+C:\MyProject\Newfolder2\HotelManagment\HotelManagment\bin\Release\net6.0\publish\HotelManagment.runtimeconfig.json
+C:\MyProject\Newfolder2\HotelManagment\HotelManagment\bin\Release\net6.0\publish\HotelManagment.pdb
+C:\MyProject\Newfolder2\HotelManagment\HotelManagment\bin\Release\net6.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\MyProject\Newfolder2\HotelManagment\HotelManagment\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\MyProject\Newfolder2\HotelManagment\HotelManagment\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\MyProject\Newfolder2\HotelManagment\HotelManagment\bin\Release\net6.0\publish\AWSSDK.Core.dll
+C:\MyProject\Newfolder2\HotelManagment\HotelManagment\bin\Release\net6.0\publish\AWSSDK.DynamoDBv2.dll
+C:\MyProject\Newfolder2\HotelManagment\HotelManagment\bin\Release\net6.0\publish\AWSSDK.S3.dll
+C:\MyProject\Newfolder2\HotelManagment\HotelManagment\bin\Release\net6.0\publish\HttpMultipartParser.dll
+C:\MyProject\Newfolder2\HotelManagment\HotelManagment\bin\Release\net6.0\publish\Microsoft.IdentityModel.Abstractions.dll
+C:\MyProject\Newfolder2\HotelManagment\HotelManagment\bin\Release\net6.0\publish\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\MyProject\Newfolder2\HotelManagment\HotelManagment\bin\Release\net6.0\publish\Microsoft.IdentityModel.Logging.dll
+C:\MyProject\Newfolder2\HotelManagment\HotelManagment\bin\Release\net6.0\publish\Microsoft.IdentityModel.Tokens.dll
+C:\MyProject\Newfolder2\HotelManagment\HotelManagment\bin\Release\net6.0\publish\Microsoft.IO.RecyclableMemoryStream.dll
+C:\MyProject\Newfolder2\HotelManagment\HotelManagment\bin\Release\net6.0\publish\System.IdentityModel.Tokens.Jwt.dll
+C:\MyProject\Newfolder2\HotelManagment\HotelManagment\bin\Release\net6.0\publish\HotelManagment.dll
